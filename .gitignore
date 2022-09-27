@@ -1,1 +1,8 @@
 node_modules
+.next
+*.env
+dev.db
+dev.db-journal
+migration_lock.toml
+migration.sql
+.DS_Store
